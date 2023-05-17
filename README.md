@@ -75,7 +75,8 @@ Contributions to this repository are welcome. If you find any issues or have sug
 
 You can follow me on LinkedIn and GitHub for more updates and projects:
 
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/nidhinbabukuttan/)
-- GitHub: [GitHub](https://github.com/Man-of-Mischief)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nidhinbabukuttan/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/Man-of-Mischief)
+
 
    
