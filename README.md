@@ -53,7 +53,7 @@ To use this code, follow these steps:
    
 5. Provision the infrastructure using Terraform: 
    ```
-   cd terraform
+   cd zomato-tf-mumbai
    terraform init
    terraform apply
    ```
