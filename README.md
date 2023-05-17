@@ -9,6 +9,8 @@ This repository contains configuration files for provisioning and deploying a we
 - [Usage](#Usage)
 - [Folder Structure](#Folder-Structure)
 - [Contributing](#Contributing)
+- [Follow Me](#Follow-Me)
+
 
 ## Description
 
@@ -69,5 +71,11 @@ The repository is organized into the following folders:
 ## Contributing
 Contributions to this repository are welcome. If you find any issues or have suggestions for improvements, feel free to create a pull request or submit an issue.
 
+## Follow Me
+
+You can follow me on LinkedIn and GitHub for more updates and projects:
+
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/nidhinbabukuttan/)
+- GitHub: [GitHub](https://github.com/Man-of-Mischief)
 
    
